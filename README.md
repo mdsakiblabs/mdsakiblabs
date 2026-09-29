@@ -1,6 +1,8 @@
 # Hi, I'm Sakib 👋
 
-I'm a web developer from Bangladesh, currently learning and building with modern web technologies.
+Web Developer | JavaScript | React | Next.Js | Express.Js | MongoDB
+
+I'm from Bangladesh, currently learning and building with modern web technologies.
 
 ### What I use
 
