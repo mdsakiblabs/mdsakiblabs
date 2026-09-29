@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ankon 👋
 
-<!--
-**mdsakiblabs/mdsakiblabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer from Bangladesh, currently learning and building with modern web technologies.
 
-Here are some ideas to get you started:
+### What I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **Tools:** Git, GitHub, VS Code
+
+### What I'm working on
+
+Currently focused on becoming a full-stack developer by building real-world projects and improving my fundamentals.
+
+I like keeping things simple, learning by building, and writing code that I can actually understand.
+
