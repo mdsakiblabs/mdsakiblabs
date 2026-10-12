@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sakib%20Hasan&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer&descSize=18&descAlignY=58" width="100%" alt="Sakib Hasan - Web Developer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sakib%20Hasan&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer&descSize=18&descAlignY=58" width="100%" alt="Md Sakib Hasan - Web Developer Banner" />
 </div>
 
 <h1 align="center">Hi, I'm Sakib Hasan 👋</h1>
